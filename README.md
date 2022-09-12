@@ -13,6 +13,8 @@ To run the application:
 
 -Once, it is done type "rails s" in the command line to run in the local host.
 
+-Only the logged in user has the ability to create ,edit and delete his own posts ,he dont have access to edit or delete other User posts , he can only see the posts.
+
 
 
 * Ruby version
@@ -23,14 +25,14 @@ To run the application:
  
 
 * System dependencies
+ 
+  * gem "rails", "~> 7.0.3", ">= 7.0.3.1" 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
 
 * How to run the test suite
+
+ * rails test
+   
 
 * Services (job queues, cache servers, search engines, etc.)
 
