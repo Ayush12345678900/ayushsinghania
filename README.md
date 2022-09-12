@@ -31,11 +31,8 @@ To run the application:
 
 * How to run the test suite
 
- * rails test
+  * rails test
    
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
