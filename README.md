@@ -16,7 +16,9 @@ To run the application:
 
 
 * Ruby version
+ 
  *Rails version --7 required.
+ 
  *Ruby version --3 required.
  
 
