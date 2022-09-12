@@ -4,6 +4,7 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 To run the application:
+
 -After cloning or downloading the application file, open the system terminal.
 
 -In terminal type "bundle install" to add all the required gems present in the gem file.
